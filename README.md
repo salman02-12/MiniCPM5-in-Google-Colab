@@ -34,4 +34,4 @@ This notebook makes it easy to run MiniCPM5 without complex coding. It is divide
 
 ## 🤝 Credits
 * **Notebook Creator:** [@CoinNoin](https://www.youtube.com/@CoinNoin)
-* **Base AI Model:** [OpenBMB / MiniCPM5](https://huggingface.co/openbmb)
+* **Base AI Model:** [OpenBMB / MiniCPM5]([https://huggingface.co/openbmb](https://huggingface.co/collections/openbmb/minicpm5))
