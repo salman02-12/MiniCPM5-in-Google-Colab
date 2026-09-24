@@ -2,7 +2,7 @@
 
 This repository contains a simple, interactive Google Colab notebook for running the **MiniCPM5** language models. You can instantly chat, generate text, and test the model's advanced reasoning ("thinking") features directly in your browser using a free T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=kQlceXGX_Vs)
+**🎥 Watch the Tutorial:** [Setup MiniCPM5 in Google Colab](https://www.youtube.com/watch?v=kQlceXGX_Vs)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1T9PfAU-PagYdyoZDCfXEfxhxs2Od6RJP?usp=sharing)
 
